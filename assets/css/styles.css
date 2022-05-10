@@ -422,7 +422,8 @@ img {
 .skills__header {
   display: flex;
   align-items: center;
-  margin-bottom: var(--mb-2-5);
+  margin-top: var(--mb-1-5);
+  margin-bottom: var(--mb-1-5);
   cursor: pointer;
 }
 
@@ -452,7 +453,6 @@ img {
 
 .skills__list {
   row-gap: 1.5rem;
-  padding-left: 2.7rem;
 }
 
 .skills__titles {
@@ -631,7 +631,7 @@ img {
 .portfolio__button {
   background-color: var(--first-color);
   color: #fff;
-  padding: 0.3rem;
+  padding: 0.5rem;
   border-radius: 0.5rem;
   font-weight: var(--smaller-font-size);
   margin-bottom: 0.5rem;
