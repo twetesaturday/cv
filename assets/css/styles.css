@@ -863,6 +863,7 @@ img {
 @media screen and (min-width: 568px) {
   .home__data {
     grid-column: initial;
+    margin-left: -9em;
   }
 
   .home__img {
@@ -952,6 +953,7 @@ img {
 
   .home__scroll {
     display: block;
+    margin-left: -4em;
   }
 
   .home__scroll-button {
